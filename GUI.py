@@ -61,7 +61,7 @@ def GuideMain():
                                 \nRequirements: Use this category to install all the necessary requirements for the program. This is an essentila step when running this program for the first time.""")
 
 def CreditsButton():
-    tkinter.messagebox.showinfo("Credits:", f'Project made by: \nAswin P. Alex\nNatasha Sanjeev\n Mrithula S\n Devika Raj')
+    tkinter.messagebox.showinfo("Credits:", f'Project made by:')
 
 def OpeningPriceButton():
     global fd_flag
